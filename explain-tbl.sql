@@ -1,0 +1,2 @@
+USE mysql;
+EXPLAIN db;
